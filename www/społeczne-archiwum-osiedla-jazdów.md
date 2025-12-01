@@ -14,13 +14,15 @@ Celem projektu było upamiętnienie dawnych i obecnych mieszkańców Osiedla –
 
 SAOJ to nie tylko zachowanie pamięci o przeszłości, lecz także stworzenie żywego archiwum, które służyć będzie nam i kolejnym pokoleniom osób zainteresowanych dziedzictwem kulturowym Osiedla Jazdów i jego dalszym rozwojem.
 
-Obejrzyj film z Andrzejem Górzem, który opowiada o projekcie.
+Obejrzyj [film z Andrzejem Górzem](https://www.facebook.com/reel/1996224564557484), który opowiada o projekcie.
 
 W 2025 roku we współpracy z lokalną społecznością, zebrałyśmy i uporządkowaliśmy materiały dokumentujące bogatą historię tego wyjątkowego miejsca – zarówno jako symbolu powojennej odbudowy Warszawy, jak i przestrzeni niezależnej twórczości artystycznej.
 
-– Projekt rozpoczęłyśmy od szkolenia dla naszego zespołu i osób wolontariackich. Prowadziła je dla nas Adriana Kapała z Centrum Archiwistyki Społecznej, będącego partnerem merytorycznym projektu. Podczas szkolenia dowiedziałyśmy się jak pozyskiwać i opracowywać archiwalia, oraz jak zabezpieczać je w wymiarze fizycznym i cyfrowym. Poznałyśmy też tajniki nagrywania historii mówionej – opowiada Gabriela Stępniak, koordynatorka projektu.
+*– Projekt rozpoczęłyśmy od szkolenia dla naszego zespołu i osób wolontariackich. Prowadziła je dla nas Adriana Kapała z Centrum Archiwistyki Społecznej, będącego partnerem merytorycznym projektu. Podczas szkolenia dowiedziałyśmy się jak pozyskiwać i opracowywać archiwalia, oraz jak zabezpieczać je w wymiarze fizycznym i cyfrowym. Poznałyśmy też tajniki nagrywania historii mówionej* **– opowiada Gabriela Stępniak, koordynatorka projektu**.
 
-W ramach projektu zorganizowane zostały 80. urodziny Osiedla Jazdów, podczas których odbyły się m.in. warsztaty - małe A | Warsztaty o architekturze jazdowskich domków ▲ 80. urodziny Osiedla Jazdów. Fotorelacja z wydarzenia jest dostępna tutaj.
+W ramach projektu zorganizowane zostały [80. urodziny Osiedla Jazdów](https://www.facebook.com/events/1244264680674591/), podczas których odbyły się m.in. warsztaty - [małe A | Warsztaty o architekturze jazdowskich domków ▲ 80. urodziny Osiedla Jazdów](https://www.facebook.com/jazdow/posts/pfbid03qba1VrWBRkgczVLzYsCAZRuwHydwfHiJ2w6NL9rdTJ3qxxds76gZzdXvknb8MV1l). Fotorelacja z wydarzenia [jest dostępna tutaj](https://www.facebook.com/jazdow/posts/pfbid0YaMvNccrxU4vRccKo6ZF3sJvag81ojy5SBw4TJrM3PCVVYwWHJGc1pah5LT8ixcJl).
+
+![SAOJ 80. urodziny](/images/saoj-urodziny-bdc583e1-4611-450b-992d-6f7f0a8af304.jpg "SAOJ 80. urodziny")
 
 OPOWIEDZ SWÓJ JAZDÓW – WYWIADY I DIGITALIZACJA
 
