@@ -65,7 +65,17 @@ Latem można było natknąć się niespodziewanie na fotografie z rodzinnych arc
 
 Do cytatów dołączone były kody QR, które umożliwiały wejście na stronę powstałą w ramach projektu Stowarzyszenia Pracownia Etnograficzna [domkifinskie.etnograficzna.pl](https://domkifinskie.etnograficzna.pl)
 
-ZDJECIA
+![SAOJ wystawa 1](/images/saoj-wystawa-66591892-bcd7-4d0e-82e6-fccb5a114258.jpg "SAOJ wystawa 1")
+
+
+
+![SAOJ wystawa 2](/images/saoj-wystawa-6b6942c0-38d9-4dce-b85c-f1f6c056d720.jpg "SAOJ wystawa 2")
+
+
+
+![SAOJ wystawa 3](/images/saoj-wystawa-dsc04057-2-large.jpeg "SAOJ wystawa 3")
+
+
 
 ## ARCHIWUM, KTÓRE ŻYJE – MIĘDZY DOKUMENTACJĄ, A INTERWENCJĄ.
 
