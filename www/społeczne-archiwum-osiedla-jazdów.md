@@ -51,27 +51,11 @@ Przede wszystkim głównym bohaterkom i bohaterom naszego Projektu – mieszkank
 
 Każdy z 8 spacerów prowadziła inna osoba – mieszkanka lub mieszkaniec, badaczka, aktywista, architekt, przyrodniczka czy społeczniczka. Ich spojrzenia na Jazdów są różne, ale łączy je jedno – więź i osobista relacja z tym miejscem. Oprowadzania poprowadziły/li: [Andrzej Górz](https://www.facebook.com/events/1667114260652966/), [Ewa Ziajkowska](https://www.facebook.com/events/1034778248435266/), [Wojciech Matejko](https://www.facebook.com/events/1325940055903883/), [Dominika Dzieniszewska](https://www.facebook.com/events/1436179747684603/), [Grzegorz Piątek](https://www.facebook.com/events/2973869569483287/), [Gabriela Stępniak](https://www.facebook.com/events/765462526405214/) i [Mateusz Potempski](https://www.facebook.com/events/1469178277687960/). Oprowadzania były także przestrzenią do rozmów z mieszkańcami Warszawy o tym miejscu. Jedno oprowadzanie obejmowało tłumaczenie PJM.
 
-ZDJECIA
+![Co konserwator widzi w Osiedlu Jazdów? / Ewa Ziajkowska](/images/saoj-oprowadzanie-dsc04015-1-large.jpeg "Co konserwator widzi w Osiedlu Jazdów? / Ewa Ziajkowska")
 
-+--+--+--+
-| 1 | 2 | 
+![Performatywne oprowadzanie z Wojciechem Matejko](/images/saoj-oprowadzanie-dsc05226-large.jpeg "Performatywne oprowadzanie z Wojciechem Matejko")
 
-![SAOJ oprowadzanie 3](/images/saoj-oprowadzanie-cf79a5c1-ea0a-4a76-bc17-4fb3d57c9b9b.jpg "SAOJ oprowadzanie 3")
-
-\|
-+--+--+--+
-| Co konserwator widzi w Osiedlu Jazdów? / Ewa Ziajkowska | Performatywne oprowadzanie z Wojciechem Matejko | Osiedle pionierów odbudowy / Grzegorz Piątek |
-+--+--+--+
-
-
-
-Co konserwator widzi w Osiedlu Jazdów? / Ewa Ziajkowska
-
-Performatywne oprowadzanie z Wojciechem Matejko
-
-Osiedle pionierów odbudowy / Grzegorz Piątek |
-
-
+![Osiedle pionierów odbudowy / Grzegorz Piątek](/images/saoj-oprowadzanie-cf79a5c1-ea0a-4a76-bc17-4fb3d57c9b9b.jpg "Osiedle pionierów odbudowy / Grzegorz Piątek")
 
 ## ZBLIŻ SIĘ – wystawa plenerowa w oknach domków fińskich
 
