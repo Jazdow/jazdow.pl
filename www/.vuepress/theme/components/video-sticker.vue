@@ -1,9 +1,8 @@
 <template lang="pug">
 .video-sticker
 	.letters(:class="state", :style="styles.shift")
-		img.letter.ot(v-if="time > 1" src="../assets/ui/sticker/ot.svg")
-		img.letter.war(v-if="time > 1.2" src="../assets/ui/sticker/war.svg")
-		img.letter.ty(v-if="time > 1.3" src="../assets/ui/sticker/ty.svg")
+		img.letter.wol(v-if="time > 1" src="../assets/ui/sticker/wol.svg")
+		img.letter.ny(v-if="time > 1.2" src="../assets/ui/sticker/ny.svg")
 		img.letter.jaz(v-if="time > 1.2" src="../assets/ui/sticker/jaz.svg")
 		img.letter.do(v-if="time > 1.4" src="../assets/ui/sticker/do.svg")
 		img.letter.w(v-if="time > 1.1" src="../assets/ui/sticker/w.svg")
@@ -73,16 +72,14 @@ $letterHeight = 25%
 	position absolute
 	transition .2s all ease
 	height $letterHeight
-	&.ot
-		left 10%
+	&.wol
+		left 5%
+		top 5%
 		animation a 3s linear infinite
-	&.war
-		top 25%
+	&.ny
+		bottom 25%
+		left 15%
 		animation c 4s linear infinite
-	&.ty
-		bottom 20%
-		left 20%
-		animation b 5s linear infinite
 	&.jaz
 		top 15%
 		right 10%
