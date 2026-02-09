@@ -51,7 +51,7 @@ W każdy poniedziałek otwieramy dla Was Czytelnie Klimatyczną - przytulną prz
 
 W ofercie znajdują się zarówno książki, jak i wybrane czasopisma i ziny.
 
-![](/images/dsc_0426-large.jpeg)
+![czytelniany relaks na trawie](/images/dsc_0426-large.jpeg "czytelniany relaks na trawie")
 
 **Model działalności**
 
