@@ -41,6 +41,8 @@ Najbliższe oprowadzanie [znajdziesz na liście bieżących wydarzeń](https://w
 
 W każdy poniedziałek otwieramy dla Was Czytelnie Klimatyczną - przytulną przestrzeń w domku fińskim Sołectwo przy ul. Jazdów 10/5 oferująca możliwość wypożyczenia literatury i eksplorowania jej,  a także pracy w skupieniu oraz odpoczynku w unikatowej przestrzeni. Jest to miejsce otwarte dla wszystkich, którzy cenią kameralną atmosferę i chcą spędzić czas w otoczeniu zieleni Jazdowa, korzystając z gościnności i ciepła drewnianego wnętrza.
 
+![ciepło drewnianego wnętrza](/images/dsc_0862-large.jpeg "ciepło drewnianego wnętrza")
+
 **Czytelnia specjalizuje się w gromadzeniu publikacji z zakresu:**
 
 * ekologii i nauk klimatycznych,
@@ -48,6 +50,8 @@ W każdy poniedziałek otwieramy dla Was Czytelnie Klimatyczną - przytulną prz
 * nauk społecznych oraz ochrony przyrody.
 
 W ofercie znajdują się zarówno książki, jak i wybrane czasopisma i ziny.
+
+![](/images/dsc_0426-large.jpeg)
 
 **Model działalności**
 
