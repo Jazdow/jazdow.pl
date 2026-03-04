@@ -13,3 +13,5 @@ Nie prosimy o przywileje. Prosimy o adekwatność.
 Jesteśmy gotowi do rozmowy.
 
 Liczymy na Państwa pomoc, zaangażowanie, ale przede wszystkim - odpowiedzialność i wrażliwość ponad podziałami.
+
+[Pełna treść Listu Otwartego](https://drive.google.com/file/d/1SfJiqYERqa3PSsMw7s59hJd-bFpTEHLc/view?usp=drive_link)
