@@ -73,7 +73,7 @@ export default {
 		// window.updateProgress = setInterval((() => {
 		// 	if (video.paused) { return } else { return this.currentTime = video.currentTime }
 		// }), 150
-		)
+		// )
 	},
 
 	destroyed() {
