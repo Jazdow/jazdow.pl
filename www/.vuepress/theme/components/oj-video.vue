@@ -1,11 +1,12 @@
 <template lang='pug'>
 #oj-video
-	#video-overlay(@click="playToggle")
-		video-sticker(:time="currentTime")
-		#subtitles(v-html='currentSubs')
-	video#video(autoplay, playsinline, muted, loop, :poster="sources.poster")
-		source#webm(:src="sources.webm", type="video/webm")
-		source#mp4(:src="sources.mp4", type="video/mp4")
+	img#spring-cover(src="/images/spring.jpg", alt="wiosna")
+	//#video-overlay(@click="playToggle")
+	//	video-sticker(:time="currentTime")
+	//	#subtitles(v-html='currentSubs')
+	//video#video(autoplay, playsinline, muted, loop, :poster="sources.poster")
+	//	source#webm(:src="sources.webm", type="video/webm")
+	//	source#mp4(:src="sources.mp4", type="video/mp4")
 </template>
 
 <script>
