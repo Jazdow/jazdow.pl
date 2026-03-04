@@ -68,11 +68,11 @@ export default {
 	},
 
 	mounted() {
-		clearInterval(window.updateProgress)
-		const { video } = this.$el.children
-		window.updateProgress = setInterval((() => {
-			if (video.paused) { return } else { return this.currentTime = video.currentTime }
-		}), 150
+		// clearInterval(window.updateProgress)
+		// const { video } = this.$el.children
+		// window.updateProgress = setInterval((() => {
+		// 	if (video.paused) { return } else { return this.currentTime = video.currentTime }
+		// }), 150
 		)
 	},
 
