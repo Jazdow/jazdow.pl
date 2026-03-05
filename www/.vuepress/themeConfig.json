@@ -2,6 +2,10 @@
   "mainMenu": {
     "pl": [
       {
+        "href": "/dialog/",
+        "title": "list otwarty"
+      },
+      {
         "href": "/co-robimy/",
         "title": "co robimy?"
       },
