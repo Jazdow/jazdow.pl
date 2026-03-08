@@ -24,11 +24,6 @@ cards:
     cover: /images/cover-model.jpg
     link: /wspolzarzadzanie/
     title: współzarządzanie —
-  - caption: Partnerstwo dla Osiedla Jazdów tworzą organizacje pozarządowe, grupy
-      nieformalne, instytucje publiczne i osoby prywatne.
-    cover: /images/cover-partnership.jpg
-    link: /partnerstwo/
-    title: partnerstwo —
 ---
 Naszą misją jest łączenie różnych grup, aby wspólnie rozwijać przestrzeń publiczną, tworzyć ofertę społeczną i kulturalną dostępną dla każdego, sprawdzać w praktyce alternatywne modele finansowania i wymiany bezpieniężnej, wspólnie uprawiać ogrody i po prostu dobrze spędzać czas wolny.
 

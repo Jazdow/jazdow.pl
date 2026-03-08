@@ -78,6 +78,10 @@
   "links": {
     "pl": [
       {
+        "to": "/partnerstwo",
+        "title": "Partnerstwo"
+      },
+      {
         "to": "/statut",
         "title": "Statut"
       },
