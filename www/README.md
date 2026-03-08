@@ -5,10 +5,6 @@ intro: Wolny Jazdów to społeczność warszawskiego osiedla drewnianych domków
   edukacyjne, artystyczne.
 images:
   - /images/spolecznosc.jpg
-mapCard:
-  caption: Zobacz co się mieści w domkach fińskich
-  link: /mapa/
-  title: MAPA OSIEDLA —
 eventsCard:
   caption: 
   empty: Lista wydarzeń jest dostępna na stronie Wolny Jazdów na Facebooku
@@ -33,25 +29,6 @@ cards:
     cover: /images/cover-partnership.jpg
     link: /partnerstwo/
     title: partnerstwo —
-video:
-  mp4: /videos/video.mp4
-  poster: /videos/poster.jpg
-  webm: /videos/video.webm
-subs:
-  - s: łąka kwietna – Motyka i Słońce – Jazdów 3/9
-    t: 0.1
-  - s: Warszawskie Combo Taneczne – Ladomek – Jazdów 7/30
-    t: 10
-  - s: Dom Tańca – Jazdów 3/20
-    t: 22
-  - s: budowa pieca z gliny – Motyka i Słońce – Jazdów 3/9
-    t: 36
-  - s: Miejskie pszczoły – Jazdów 3/8
-    t: 44
-  - s: urodziny "Pańskiej Skórki" – PM na Trawie – Jazdów 3/12
-    t: 49
-  - s: Warszawskie Kroje – Motyka i Słońce – Jazdów 3/9
-    t: 57
 ---
 Naszą misją jest łączenie różnych grup, aby wspólnie rozwijać przestrzeń publiczną, tworzyć ofertę społeczną i kulturalną dostępną dla każdego, sprawdzać w praktyce alternatywne modele finansowania i wymiany bezpieniężnej, wspólnie uprawiać ogrody i po prostu dobrze spędzać czas wolny.
 
