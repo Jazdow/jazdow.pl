@@ -264,7 +264,7 @@
 
 <style scoped lang='stylus'>
 @import '../styles/component'
-$oj-map-dark = $oj-violet
+$oj-map-dark = $oj-green-free
 
 #oj-map
 	display block
@@ -316,7 +316,7 @@ $oj-map-dark = $oj-violet
 		animation labelOut .5s 1 ease
 		visibility hidden
 #house-label-content
-	color $oj-violet
+	color $oj-green-free
 	font-family $P
 	font-weight 700
 	font-size 1.2rem
@@ -328,7 +328,7 @@ $oj-map-dark = $oj-violet
 	padding 0 1rem
 svg
 	.house
-		stroke #5200cc
+		stroke #6ba568
 		stroke-linejoin bevel
 		stroke-width 0.5px
 		&.open
@@ -340,7 +340,7 @@ svg
 			fill white
 
 	.house-number, text
-		fill #5200cc
+		fill #6ba568
 		font-family SC, Monaco, monospace
 		font-size 13px
 		font-weight 300

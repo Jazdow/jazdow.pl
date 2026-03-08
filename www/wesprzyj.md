@@ -9,9 +9,7 @@ Partnerstwo Otwarty Jazdów utrzymuje się w głównie z dobrowolnych zbiórek s
 
 ## Aplikuj o obywatelstwo Wolnego Jazdowa
 
-Bądź z nami w stałym kontakcie i podpisz się pod jazdowskimi wartościami oraz oddolnym, niekomercyjnym charakterem Jazdowa. Wypełnij krótki internetowy formularz aplikacji o Obywatelstwo Wolnego Jazdowa:
-
-[wolnyjazdow.pl](https://wolnyjazdow.pl/)
+Bądź z nami w stałym kontakcie i podpisz się pod jazdowskimi wartościami oraz oddolnym, niekomercyjnym charakterem Jazdowa. Wypełnij krótki internetowy formularz aplikacji o [Obywatelstwo Wolnego Jazdowa](/obywatelstwo).
 
 ## Przyjmujemy darowizny na cele statutowe
 
@@ -33,11 +31,11 @@ Dołącz do społeczności Patronite i korzystaj z przestrzeni domku fińskiego 
 
 Istnieje możliwość przekazania darowizny przez portal zrzutka.pl:
 
-[zrzutka.pl/66a6y3](https://zrzutka.pl/66a6y3)
+[zrzutka.pl](https://zrzutka.pl/66a6y3)
 
 ### PayPal.com
 
-[paypal.com/donate/?hosted_button_id=VX7Z64CXKU3V4](https://www.paypal.com/donate/?hosted_button_id=VX7Z64CXKU3V4)
+[paypal.com](https://www.paypal.com/donate/?hosted_button_id=VX7Z64CXKU3V4)
 
 ### Konto bankowe
 
@@ -47,7 +45,7 @@ Istnieje możliwość przekazania darowizny przez portal zrzutka.pl:
 **ważne - tytułem:**\
 darowizna na cele statutowe
 
-## Dane adresowe
+## Dane formalne
 
 **Partnerstwo Otwarty Jazdów**\
 **Związek Stowarzyszeń**
@@ -58,9 +56,3 @@ ul. Jazdów 10/5\
 KRS: 0000737179\
 REGON: 380558414\
 NIP: 7010827495
-
-otwarty@jazdow.pl
-
-## e-Doręczenia
-
-AE:PL-86024-98343-ERIGG-14

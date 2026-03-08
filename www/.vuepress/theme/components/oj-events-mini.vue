@@ -9,7 +9,7 @@
 		//- 		.time {{event.startTime}}
 		//- 		.title {{event.title}}
 		.empty {{$page.frontmatter.eventsCard.empty}}
-	router-link.link(:to="$page.frontmatter.eventsCard.link")
+	a.link(:href="$page.frontmatter.eventsCard.link" target="_blank" rel="noopener")
 		h2 {{$page.frontmatter.eventsCard.more}}
 </template>
 
@@ -42,7 +42,7 @@ export default {
 	background url('../assets/ui/sleepey.svg') top center no-repeat
 	background-size 30% auto
 	padding 30% 0 0 0
-	color $oj-violet
+	color $oj-green-free
 .link
 	display block
 	align-self flex-end

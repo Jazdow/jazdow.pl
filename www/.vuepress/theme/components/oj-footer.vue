@@ -1,12 +1,16 @@
  <template lang='pug'>
 #oj-footer
 	.inner-section
-		.contacts
-			.contact
-				h4.contact-title {{$site.themeConfig.contact[lang].title}}
-				.contact-details(v-html="render(this.$site.themeConfig.contact[lang].details)")
+		.info-columns
+			.contacts
+				.contact
+					h4.contact-title {{$site.themeConfig.contact[lang].title}}
+					.contact-details(v-html="render(this.$site.themeConfig.contact[lang].details)")
+			.address
+				h4.address-title {{$site.themeConfig.address[lang].title}}
+				.address-details(v-html="render(this.$site.themeConfig.address[lang].details)")
 		.social
-			a.social-icon(v-for="item in $site.themeConfig.social[lang]", :href="item.href", :title="item.type", :class="item.type")
+			a.social-icon(v-for="item in $site.themeConfig.social", :href="item.href", :title="item.type", target="_blank", rel="noopener") {{socialChar(item.type)}}
 		.links
 			router-link(v-for="link in $site.themeConfig.links[lang]" :key="link.to" :to="link.to") {{link.title}}
 </template>
@@ -14,6 +18,8 @@
 <script>
 import markdownIt from 'markdown-it'
 const md = markdownIt({breaks: true})
+
+const socialChars = { facebook: 'b', instagram: 'd', youtube: 'p', linkedin: 'o' }
 
 export default {
 	name: 'oj-footer',
@@ -24,14 +30,15 @@ export default {
 		}
 	},
 	methods: {
-		render(str){ return md.render(str) }
+		render(str){ return md.render(str) },
+		socialChar(type){ return socialChars[type] || type }
 	}
 }
 </script>
 
 <style lang="stylus">
 #oj-footer
-	.contact-details
+	.contact-details, .address-details
 		p
 			font-size: 1rem
 			line-height 1.5em
@@ -57,16 +64,30 @@ export default {
 		padding 0 $gutter
 		width 100%
 		clearfix()
+	// INFO COLUMNS
+	.info-columns
+		display flex
+		flex-flow row wrap
+		gap 3rem
+		margin-bottom 2rem
+		+below(660px)
+			gap 2rem
 	// CONTACTS
 	.contacts
-		margin-bottom 2rem
-		width 100%
-		max-width 240px
+		min-width 200px
 	.contact
 		display block
-		margin-right $gutter
 		.contact-title
-			color $oj-violet
+			color $oj-green-free
+			font-size 1rem
+			line-height 1.2em
+			font-weight 700
+			text-transform uppercase
+	// ADDRESS
+	.address
+		min-width 200px
+		.address-title
+			color $oj-green-free
 			font-size 1rem
 			line-height 1.2em
 			font-weight 700
@@ -74,14 +95,26 @@ export default {
 
 	// SOCIAL
 	.social
-		text-align left
+		display flex
+		flex-flow row wrap
+		align-items center
+		gap 1rem
+		margin-top 1rem
 		@media print
 			display none
 	.social-icon
 		icon()
 		display inline-block
-		size 2rem
-		color $oj-violet
 		font-size 2rem
-		margin-right $gutter
+		text-decoration none
+		color $oj-green-free
+
+	// LINKS
+	.links
+		display flex
+		flex-flow row wrap
+		gap 1rem
+		margin-top 2.5rem
+		a
+			font-size 1.2rem
 </style>

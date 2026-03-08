@@ -2,7 +2,8 @@
 	.oj-menu
 		a.icon(@click="toggleMenu()", :class="{on: mobileMenu}") menu
 		nav
-			router-link.home(:to="$localePath", :title="$siteTitle") {{$siteTitle}}
+			router-link.home(:to="$localePath", :title="$siteTitle")
+				img.logo(:src="logo", :alt="$siteTitle")
 			.items(:class="{on: mobileMenu}")
 				router-link(v-for="item in $site.themeConfig.mainMenu[lang]", :key="item.href", :to="item.href") {{item.title}}
 				router-link.lang-switch(:to="langSwitch.to") {{langSwitch.name}}
@@ -21,6 +22,7 @@ export default {
 
 	computed: {
 		lang(){ return this.$lang.substring(0, 2) },
+		logo(){ return require('../assets/ui/oj-logo.svg') },
 		langSwitch(){
 			return {
 				to: this.$lang === 'pl-PL' ? '/en/' : '/',
@@ -65,11 +67,12 @@ $small = 1200px
 	+below($small)
 		height 0
 nav
-	display block
+	display flex
+	align-items center
 	width 100%
 	height 5.5rem
 	z-index 999
-	padding .75rem $gutter*0.5
+	padding 0 $gutter*0.5
 	background-color white
 	&.fixed
 		position fixed
@@ -86,48 +89,48 @@ a.icon
 	top .5rem
 	right 1rem
 	z-index 9999
-	color $oj-violet
+	color $oj-green-free
 	text-transform uppercase
 	font-size 1rem
 	padding .5em 1em
 	border-radius 3px
 	cursor pointer
 	&.on
-		background-color $oj-violet
+		background-color $oj-green-free
 		color white
 	+below($small)
 		display inline-block
 		margin-top .25rem
 .home
-	display inline-block
-	font-weight 700
-	text-transform uppercase
-	font-size 1rem
-	line-height 1em
-	padding 1.5rem 0 0.5rem 0
-	color $oj-dark
+	display flex
+	align-items center
+	flex-shrink 0
+	.logo
+		height 4rem
+		width auto
+		display block
 .items
-	display block
-	float right
-	margin 0
+	display flex
+	align-items center
+	margin-left auto
 	font-family $Lemur
 	font-weight 700
 	list-style-type none
-	text-align right
 	letter-spacing .025em
 	font-size 1rem
 	+below($small)
 		&.on
-			display block
+			display flex
+			flex-direction column
+			align-items flex-start
 		display none
 		background-color rgba(white, .95)
 		position fixed
-		top 5rem
+		top 6.5rem
 		left 0
 		width 100%
 		height 100%
 		font-size 2rem
-		text-align left
 		padding-top 2rem
 
 	a.lang-switch
@@ -136,22 +139,21 @@ a.icon
 	a
 		display inline-block
 		line-height 1em
-		padding 1.5rem 0 .5rem 0
 		cursor pointer
 		color inherit
 		margin-left 3rem
 		&:hover, &.router-link-active
-			color $oj-violet
+			color $oj-green-free
 		+below($small)
 			display block
 			padding 1em $gutter
 			margin 0
-			color $oj-violet
+			color $oj-green-free
 			animation slideInLeft .75s ease 1
 			&:hover
 				text-decoration: underline
 	a.nuxt-link-active
 		+below($small)
-			border-top 1px solid $oj-violet
-			border-bottom 1px solid $oj-violet
+			border-top 1px solid $oj-green-free
+			border-bottom 1px solid $oj-green-free
 </style>

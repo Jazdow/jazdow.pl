@@ -4,14 +4,13 @@ intro: Wolny Jazdów to społeczność warszawskiego osiedla drewnianych domków
   fińskich, prowadząca ogólnodostępne działania społeczne, kulturalne,
   edukacyjne, artystyczne.
 images:
-  - /images/ambasada1.jpg
-  - /images/ambasada2.jpg
+  - /images/spolecznosc.jpg
 mapCard:
   caption: Zobacz co się mieści w domkach fińskich
   link: /mapa/
   title: MAPA OSIEDLA —
 eventsCard:
-  caption: fb
+  caption: 
   empty: Lista wydarzeń jest dostępna na stronie Wolny Jazdów na Facebooku
   link: https://facebook.com/jazdow/events/
   more: cały kalendarz →
