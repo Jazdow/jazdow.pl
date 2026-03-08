@@ -10,7 +10,7 @@ eventsCard:
   empty: Lista wydarzeń jest dostępna na stronie Wolny Jazdów na Facebooku
   link: https://facebook.com/jazdow/events/
   more: cały kalendarz →
-  title: WYDARZENIA
+  title: WYDARZENIA -
 cards:
   - caption: Pierwszy raz na Jazdowie? Znajdź odpowiedzi na najważniejsze pytania
     cover: /images/cover-faq.jpg
