@@ -22,7 +22,7 @@ export default {
 
 	computed: {
 		lang(){ return this.$lang.substring(0, 2) },
-		logo(){ return require('../assets/ui/oj-logo.svg') },
+		logo(){ return require('../assets/ui/logo-wj.png') },
 		langSwitch(){
 			return {
 				to: this.$lang === 'pl-PL' ? '/en/' : '/',
@@ -34,6 +34,9 @@ export default {
 	methods: {
 		toggleMenu(force){
 			return this.mobileMenu = !this.mobileMenu
+		},
+		closeMenu(){
+			this.mobileMenu = false
 		}
 	},
 	watch: {
@@ -43,7 +46,13 @@ export default {
 			} else {
 				return document.body.classList.remove('menu-on')
 			}
+		},
+		$route(){
+			this.closeMenu()
 		}
+	},
+	beforeDestroy(){
+		document.body.classList.remove('menu-on')
 	}
 }
 </script>

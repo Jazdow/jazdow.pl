@@ -6,6 +6,10 @@
         "title": "list otwarty"
       },
       {
+        "href": "/co-robimy/",
+        "title": "co robimy?"
+      },
+      {
         "href": "/deklaracja/",
         "title": "deklaracja wolności"
       },
@@ -73,6 +77,14 @@
   ],
   "links": {
     "pl": [
+      {
+        "to": "/partnerstwo",
+        "title": "Partnerstwo"
+      },
+      {
+        "to": "/statut",
+        "title": "Statut"
+      },
       {
         "to": "/sprawozdania",
         "title": "Sprawozdania"

@@ -3,11 +3,9 @@
 	main
 		oj-menu
 		#home-page
-			oj-video(:sources="$page.frontmatter.video", :subs="$page.frontmatter.subs")
 			oj-intro
 			.content
 				.row.a
-					oj-map-card
 					oj-events-mini
 				.row.b
 					oj-card(v-for="card in $page.frontmatter.cards"
@@ -21,11 +19,9 @@
 
 <script>
 import OjMenu from '../components/oj-menu'
-import OjVideo from '../components/oj-video'
 import OjIntro from '../components/oj-intro'
 import OjCard from '../components/oj-card'
 import OjFaqCard from '../components/oj-faq-card'
-import OjMapCard from '../components/oj-map-card'
 import OjEventsMini from '../components/oj-events-mini'
 import OjFooter from '../components/oj-footer'
 
@@ -34,7 +30,7 @@ export default {
 
 	layout: 'home',
 
-	components: {OjMenu, OjVideo, OjIntro, OjCard, OjFaqCard, OjMapCard, OjEventsMini, OjFooter},
+	components: {OjMenu, OjIntro, OjCard, OjFaqCard, OjEventsMini, OjFooter},
 
 	mounted(){
 		if (window.netlifyIdentity) {
@@ -57,11 +53,6 @@ export default {
 main
 	margin-top 0
 	transition margin-top .5s ease
-// .video-bg
-//	main
-//		margin-top calc(100vh - 5.5rem)
-//		+above(0, true, null, 'portrait')
-//			margin-top 75vh
 .intro
 	margin 6rem auto 0 auto
 	.title
