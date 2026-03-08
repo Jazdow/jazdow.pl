@@ -59,7 +59,7 @@ KRS: 0000737179\
 REGON: 380558414\
 NIP: 7010827495
 
-otwarty@jazdow.pl
+jazdow@jazdow.pl
 
 ## e-Doręczenia
 
