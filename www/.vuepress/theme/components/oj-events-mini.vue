@@ -9,7 +9,7 @@
 		//- 		.time {{event.startTime}}
 		//- 		.title {{event.title}}
 		.empty {{$page.frontmatter.eventsCard.empty}}
-	router-link.link(:to="$page.frontmatter.eventsCard.link")
+	a.link(:href="$page.frontmatter.eventsCard.link" target="_blank" rel="noopener")
 		h2 {{$page.frontmatter.eventsCard.more}}
 </template>
 

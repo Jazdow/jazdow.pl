@@ -11,7 +11,7 @@ mapCard:
   link: /mapa/
   title: MAPA OSIEDLA —
 eventsCard:
-  caption: fb
+  caption: 
   empty: Lista wydarzeń jest dostępna na stronie Wolny Jazdów na Facebooku
   link: https://facebook.com/jazdow/events/
   more: cały kalendarz →
