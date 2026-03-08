@@ -1,9 +1,7 @@
 ---
 permalink: deklaracja
 title: Deklaracja Wolności
-tldr: Tutaj znajdziesz sprawozdania merytoryczne i finansowe Partnerstwa Otwarty
-  Jazdów - związku stowarzyszeń organizacji działających na rzecz ochrony
-  dziedzictwa i rozwoju Osiedla Jazdów.
+tldr: ogłaszamy Niepodległość Jazdowa, jako miejsca wolności - wolnej edukacji, wolnej sztuki i kultury, wolnej przyrody, wolnego ducha i wolnej sąsiedzkiej wspólnoty.
 generic: true
 ---
 My, jazdowska wspólnota zebrana 17 maja 2025 roku na Skwerze Dialogu Społecznego,
