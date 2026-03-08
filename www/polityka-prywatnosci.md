@@ -7,7 +7,7 @@ generic: true
 1. Słownik
 
    * **Strony profilowe** – podstrony serwisu jazdow.pl służące do prezentowania działalności organizacji reprezentowanych przez użytkowników, oraz udostępniania danych kontaktowych do tych organizacji. Indeks tych stron można znaleźć pod adresem: https://jazdow.pl/mapa
-   * **organizacja** – organizacja, którą reprezentuje użytkownik. Wszystkie organizacje na stronie [jazdow.pl](https://jazdow.pl) działają na terenie Osiedla Jazdów, lub są członkami Partnerstwa Otwarty Jazdów
+   * **organizacja** – organizacja, którą reprezentuje użytkownik. Wszystkie organizacje na stronie [jazdow.pl](https://jazdow.pl) działają na terenie Osiedla Jazdów, lub są członkami Partnerstwa Wolny Jazdów
 2. Postanowienia ogólne
 
    Niniejsza Polityka prywatności określa zasady przetwarzania danych osobowych i warunki zachowania poufności użytkowników serwisu znajdującego się pod adresem [jazdow.pl](https://jazdow.pl)
