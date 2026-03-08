@@ -10,9 +10,7 @@
 				h4.address-title {{$site.themeConfig.address[lang].title}}
 				.address-details(v-html="render(this.$site.themeConfig.address[lang].details)")
 		.social
-			a.social-icon(v-for="item in $site.themeConfig.social", :href="item.href", :title="item.type", :class="item.type")
-				img(v-if="iconPath(item.type)", :src="iconPath(item.type)", :alt="item.type")
-				span(v-else) {{item.type}}
+			a.social-icon(v-for="item in $site.themeConfig.social", :href="item.href", :title="item.type", target="_blank", rel="noopener") {{socialChar(item.type)}}
 		.links
 			router-link(v-for="link in $site.themeConfig.links[lang]" :key="link.to" :to="link.to") {{link.title}}
 </template>
@@ -21,11 +19,7 @@
 import markdownIt from 'markdown-it'
 const md = markdownIt({breaks: true})
 
-const icons = {
-	facebook: require('../assets/ui/icons/facebook.svg'),
-	instagram: require('../assets/ui/icons/instagram.svg'),
-	youtube: require('../assets/ui/icons/youtube.svg'),
-}
+const socialChars = { facebook: 'b', instagram: 'd', youtube: 'p', linkedin: 'o' }
 
 export default {
 	name: 'oj-footer',
@@ -37,7 +31,7 @@ export default {
 	},
 	methods: {
 		render(str){ return md.render(str) },
-		iconPath(type){ return icons[type] || null }
+		socialChar(type){ return socialChars[type] || type }
 	}
 }
 </script>
@@ -109,20 +103,18 @@ export default {
 		@media print
 			display none
 	.social-icon
-		display inline-flex
-		align-items center
+		icon()
+		display inline-block
+		font-size 2rem
 		text-decoration none
-		color $oj-violet
-		img
-			width 2rem
-			height 2rem
-		span
-			font-size 0.85rem
+		color $oj-green
 
 	// LINKS
 	.links
 		display flex
 		flex-flow row wrap
 		gap 1rem
-		margin-top 1rem
+		margin-top 2.5rem
+		a
+			font-size 1.2rem
 </style>
