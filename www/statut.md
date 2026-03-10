@@ -1,9 +1,8 @@
 ---
 permalink: statut
 title: Statut
-generic: true
 ---
-[Statut Związku Stowarzyszeń Partnerstwo Otwarty Jazdów](https://drive.google.com/file/d/1Bml7NuYtwube9K4osswf3qQk9mrdgpI-/view?usp=drive_link)
+**[Statut Związku Stowarzyszeń Partnerstwo Otwarty Jazdów](/dokumenty/ZS-POJ_statut.pdf)**
 
 ## Misja
 
