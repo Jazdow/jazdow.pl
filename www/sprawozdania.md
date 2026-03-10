@@ -6,40 +6,39 @@ tldr: Tutaj znajdziesz sprawozdania merytoryczne i finansowe Partnerstwa Otwarty
   dziedzictwa i rozwoju Osiedla Jazdów.
 generic: true
 ---
-**2024**
+## 2024
 
-[bilans i rachunek](https://drive.google.com/file/d/1tHv3tj2xtkMaxlkkzowQs_IVre146gTN/view?usp=sharing)\
-[informacje uzupełniające](https://drive.google.com/file/d/10BgpUrv8fzrKZrLq1vvnOXO8JTMTBg2J/view?usp=sharing)
+### [bilans i rachunek 2024](/sprawozdania/2024_finansowe.pdf)
+### [informacje uzupełniające 2024](/sprawozdania/2024_dodatkowe.pdf)
 
-**2023**
+## 2023
 
-[bilans i rachunek](https://drive.google.com/file/d/18VTdOJTJH8VajY31MkmxTG6YMSAxPn4j/view?usp=sharing)\
-[informacje uzupełniające](https://drive.google.com/file/d/1aTzs3YkhoLFmr2G6Gx5SVsoquTsC0aQx/view?usp=sharing)
+### [bilans i rachunek 2023](/sprawozdania/2023_finansowe.pdf)
+### [informacje uzupełniające 2023](/sprawozdania/2023_dodatkowe.pdf)
 
-**2022**
+## 2022
 
-[bilans i rachunek](https://drive.google.com/file/d/14p06v6-mPol9h76iFUvGMzhhK8GSXdz9/view?usp=drive_link)\
-[informacje uzupełniające](https://drive.google.com/file/d/1lvq4TJoae0mAwmG4uw7ithPoUaKiiWYW/view?usp=drive_link)
+### [bilans i rachunek 2022](/sprawozdania/2022_finansowe.pdf)
+### [informacje uzupełniające 2022](/sprawozdania/2022_dodatkowe.pdf)
 
-**2021**
+## 2021
 
-[sprawozdanie merytoryczne](https://drive.google.com/file/d/16Jztfj9ORQSVKHoQvNUXgpT4ugv3HQQJ/view?usp=sharing)\
-[bilans i rachunek](https://drive.google.com/file/d/1_44fgXnW_UuXngvs3QZ3ywWQ46pFYp6U/view?usp=drive_link)\
-[informacje uzupełniające](https://drive.google.com/file/d/1fljJGkvkOgnGqIJntPxImU-QpKVIDmhI/view?usp=sharing)
+### [bilans i rachunek 2021](/sprawozdania/2021_finansowe.pdf)
+### [informacje uzupełniające 2021](/sprawozdania/2021_dodatkowe.pdf)
 
-**2020**
+## 2020
 
-[bilans i rachunek](https://drive.google.com/file/d/1LatlrKMtJwjmjNxmwoK6aGwWX0QMfsG5/view?usp=drive_link)\
-[informacje uzupełniające](https://drive.google.com/file/d/15EC-6DDUfEuaVODY-39GZ23RzIxKFGKd/view?usp=sharing)
+### [bilans i rachunek 2020](/sprawozdania/2020_finansowe.pdf)
+### [informacje uzupełniające 2020](/sprawozdania/2020_dodatkowe.pdf)
 
-**2019**
+## 2019
 
-[sprawozdanie merytoryczne](https://drive.google.com/file/d/16Jztfj9ORQSVKHoQvNUXgpT4ugv3HQQJ/view?usp=sharing)\
-[bilans i rachunek](https://drive.google.com/file/d/1vHzDa2nGcVqyTpu66fcVDIWpylaGGQZD/view?usp=sharing)\
-[informacje uzupełniające](https://drive.google.com/file/d/1c9gsMFVFKoMiuDr24i_VA3q89X8_5dim/view?usp=sharing)
+### [sprawozdanie merytoryczne 2019](/sprawozdania/2019_merytoryczne.pdf)
+### [bilans i rachunek 2019](/sprawozdania/2019_finansowe.pdf)
+### [informacje uzupełniające 2019](/sprawozdania/2019_dodatkowe.pdf)
 
-**2018**
+## 2018
 
-[sprawozdanie merytoryczne](https://drive.google.com/file/d/1MNqoy-i67TH5HyT1U_tkhhGynDrdOBT4/view?usp=sharing)\
-[bilans i rachunek](https://drive.google.com/file/d/1091wyz38soTz6luQm_pzkP7ZIopDznBG/view?usp=sharing)\
-[informacje uzupełniające](https://drive.google.com/file/d/15aSt3DUuWziA0KpcD1v_mfqXA5xn_zuk/view?usp=sharing)
+### [sprawozdanie merytoryczne 2018](/sprawozdania/2018_merytoryczne.pdf)
+### [bilans i rachunek 2018](/sprawozdania/2018_finansowe.pdf)
+### [informacje uzupełniające 2018](/sprawozdania/2018_dodatkowe.pdf)
