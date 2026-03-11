@@ -48,8 +48,4 @@ Jesteśmy gotowi do rozmowy.
 
 Liczymy na Państwa pomoc, zaangażowanie, ale przede wszystkim - odpowiedzialność i wrażliwość ponad podziałami.
 
-## [Pełna treść Listu Otwartego](https://drive.google.com/file/d/1SfJiqYERqa3PSsMw7s59hJd-bFpTEHLc/view?usp=drive_link)
-
-**Niektórzy twierdzą, że "dialog" jest prowadzony. Czy rzeczywiście tak jest?**
-
-**Przedstawiamy poniżej raczej historię koszmaru partycypacji, aniżeli realnego dialogu...**
+## [Pełna treść Listu Otwartego](/dyplomacja/2026_03_02_Wolny-Jazdow_List-Otwarty.pdf)

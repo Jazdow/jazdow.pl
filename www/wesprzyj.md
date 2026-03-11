@@ -5,11 +5,7 @@ tldr: Tutaj dowiesz się w jaki sposób możesz pomóc rozwijać niepodległe os
   domków fińskich - miejsce spokoju i twórczej wspólnoty!
 generic: true
 ---
-Wolny Jazdów utrzymuje się w głównie z dobrowolnych zbiórek swoich członków, gości i fanów. Jeśli podoba Ci się to co robimy i chcesz pomóc nam dalej chronić i rozwijać Osiedle Jazdów, to możesz to zrobić na kilka sposobów.
-
-## Aplikuj o obywatelstwo Wolnego Jazdowa
-
-Bądź z nami w stałym kontakcie i podpisz się pod jazdowskimi wartościami oraz oddolnym, niekomercyjnym charakterem Jazdowa. Wypełnij krótki internetowy formularz aplikacji o [Obywatelstwo Wolnego Jazdowa](/obywatelstwo).
+Wolny Jazdów utrzymuje się w głównie z dobrowolnych zbiórek swoich członków, gości i fanów. Jeśli podoba Ci się to co robimy i chcesz pomóc nam dalej chronić i rozwijać Osiedle Jazdów, to możesz to zrobić na kilka sposobów. [Publikujemy sprawozdania finansowe i merytoryczne z naszej działalności statutowej.](/sprawozdania)
 
 ## Przyjmujemy darowizny na cele statutowe
 
@@ -39,14 +35,6 @@ Istnieje możliwość przekazania darowizny przez portal zrzutka.pl:
 
 ### Konto bankowe
 
-**nr konta mBank:**\
-36 1140 2105 0000 3568 7500 1001
-
-**ważne - tytułem:**\
-darowizna na cele statutowe
-
-## Dane formalne
-
 **Partnerstwo Otwarty Jazdów**\
 **Związek Stowarzyszeń**
 
@@ -56,3 +44,17 @@ ul. Jazdów 10/5\
 KRS: 0000737179\
 REGON: 380558414\
 NIP: 7010827495
+
+**nr konta mBank:**\
+36 1140 2105 0000 3568 7500 1001
+
+**ważne - tytułem:**\
+darowizna na cele statutowe
+
+## Aplikuj o obywatelstwo Wolnego Jazdowa
+
+Bądź z nami w stałym kontakcie i podpisz się pod jazdowskimi wartościami oraz oddolnym, niekomercyjnym charakterem Jazdowa. Wypełnij krótki internetowy formularz aplikacji o [Obywatelstwo Wolnego Jazdowa](/obywatelstwo).
+
+## Zostań osobą wolontariacką
+
+wolontariat@jazdow.pl

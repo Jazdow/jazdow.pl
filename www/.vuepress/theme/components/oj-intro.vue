@@ -67,10 +67,12 @@ export default {
 		max-width 40rem
 		margin 0 auto
 	.photo
-		max-width 75%
+		max-width 100%
+		img
+			width 100%
+			display block
 		&.p0
 			z-index 0
-			margin-left 20%
 		&.p1
 			position absolute
 			top 0

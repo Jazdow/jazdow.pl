@@ -34,3 +34,5 @@ Niech się stanie Wolny Jazdów!
 
 Wspólnota Wolnego Jazdowa
 Jazdów, 17 maja 2025 r.
+
+## [Obywatelstwo Wolnego Jazdowa](/obywatelstwo)
