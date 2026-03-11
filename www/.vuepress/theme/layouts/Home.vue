@@ -1,20 +1,20 @@
 <template lang="pug">
-.video-bg
-	main
-		oj-menu
-		#home-page
-			oj-intro
-			.content
-				.row.a
-					oj-events-mini
-				.row.b
-					oj-card(v-for="card in $page.frontmatter.cards"
-					:key="card.link"
-					:title="card.title"
-					:caption="card.caption"
-					:cover="card.cover"
-					:link="card.link")
-		oj-footer
+main
+	oj-menu
+	#home-page
+		oj-intro
+		.content
+			.row.a
+				a.banner-15(href="/opp")
+					img(src="/images/opp-home.png" alt="Przekaż 1,5% podatku")
+			.row.b
+				oj-card(v-for="(card, i) in $page.frontmatter.cards"
+				:key="i"
+				:title="card.title"
+				:caption="card.caption"
+				:cover="card.cover"
+				:link="card.link")
+	oj-footer
 </template>
 
 <script>
@@ -83,6 +83,8 @@ main
 .row
 	lost-center $grid-width $gutter flex
 	padding-bottom $gutter
+.row.b
+	justify-content center
 .oj-map-card
 	+above(700px)
 		lost-column 8/12 2 $gutter
@@ -96,7 +98,15 @@ main
 	+below(700px)
 		width 100%
 		max-width 40rem
-		margin $gutter auto	
+		margin $gutter auto
+.banner-15
+	display block
+	width 66%
+	margin 0 auto
+	img
+		width 100%
+		height auto
+		display block
 .oj-faq-card
 	margin-bottom $gutter
 	+above(600px)
