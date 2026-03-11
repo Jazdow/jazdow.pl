@@ -5,12 +5,6 @@ intro: Wolny Jazdów to społeczność warszawskiego osiedla drewnianych domków
   edukacyjne, artystyczne.
 images:
   - /images/spolecznosc.jpg
-eventsCard:
-  caption: 
-  empty: Lista wydarzeń jest dostępna na stronie Wolny Jazdów na Facebooku
-  link: https://facebook.com/jazdow/events/
-  more: cały kalendarz →
-  title: WYDARZENIA -
 cards:
   - caption: Pierwszy raz na Jazdowie? Znajdź odpowiedzi na najważniejsze pytania
     cover: /images/cover-faq.jpg
@@ -24,6 +18,10 @@ cards:
     cover: /images/cover-model.jpg
     link: /wspolzarzadzanie/
     title: współzarządzanie —
+  - caption: Lista wydarzeń jest dostępna na stronie Wolny Jazdów na Facebooku
+    cover: /assets/img/sleepey.dd05d40c.svg
+    link: https://facebook.com/jazdow/events/
+    title: kalendarz —
 ---
 Naszą misją jest łączenie różnych grup, aby wspólnie rozwijać przestrzeń publiczną, tworzyć ofertę społeczną i kulturalną dostępną dla każdego, sprawdzać w praktyce alternatywne modele finansowania i wymiany bezpieniężnej, wspólnie uprawiać ogrody i po prostu dobrze spędzać czas wolny.
 

@@ -1,5 +1,9 @@
 <template lang='pug'>
-router-link.oj-card(:to="link", :style="{backgroundImage: `url(${cover})`}")
+a.oj-card(v-if="isExternal" :href="link" target="_blank" rel="noopener" :style="{backgroundImage: `url(${cover})`}")
+	.card-content
+		h2.card-title {{title}}
+		p.card-caption {{caption}}
+router-link.oj-card(v-else :to="link" :style="{backgroundImage: `url(${cover})`}")
 	.card-content
 		h2.card-title {{title}}
 		p.card-caption {{caption}}
@@ -13,6 +17,11 @@ export default {
 		title: String,
 		cover: String,
 		caption: String
+	},
+	computed: {
+		isExternal() {
+			return this.link && this.link.startsWith('http')
+		}
 	}
 }
 </script>
