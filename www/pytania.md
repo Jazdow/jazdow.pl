@@ -4,6 +4,29 @@ permalink: pytania
 title: Pierwszy raz na Jazdowie?
 tldr: Rozłóż koc na trawie, napij się Jazdowianki, odpocznij, poczytaj ;)
 ---
+
+1. [Czym jest Osiedle Jazdów i Otwarty Jazdów?](#czym-jest-osiedle-jazdow-i-otwarty-jazdow)
+2. [Skąd drewniana zabudowa w centrum Warszawy?](#skad-drewniana-zabudowa-w-centrum-warszawy)
+3. [To ile fińskich domków jest na Jazdowie?](#to-ile-finskich-domkow-jest-na-jazdowie)
+4. [Jakie organizacje działają na Jazdowie?](#jakie-organizacje-dzialaja-na-jazdowie)
+5. [Jakie wydarzenia odbywają się na Jazdowie?](#jakie-wydarzenia-odbywaja-sie-na-jazdowie)
+6. [Co robić na Jazdowie, gdy "nic się nie dzieje"?](#co-robic-na-jazdowie-gdy-nic-sie-nie-dzieje)
+7. [Chcę zamieszkać na Jazdowie. Gdzie się zgłosić?](#chce-zamieszkac-na-jazdowie-gdzie-sie-zglosic)
+8. [Czy mogę kupić domek fiński?](#czy-moge-kupic-domek-finski)
+9. [To chociaż wynająć. Czy to możliwe?](#to-chociaz-wynajac-czy-to-mozliwe)
+10. [Jakie są wartości Otwartego Jazdowa?](#jakie-sa-wartosci-otwartego-jazdowa-czyli-co-jest-dla-was-wazne)
+11. [Jak zorganizować wydarzenie w domku fińskim lub ogrodzie?](#jak-zorganizowac-wydarzenie-w-domku-finskim-lub-ogrodzie)
+12. [Kto tu rządzi?](#kto-tu-rzadzi)
+13. [Czyli jak wyglądają Wasze związki z miastem? Jazdów jest bezpieczny?](#czyli-jak-wygladaja-wasze-zwiazki-z-miastem-jazdow-jest-bezpieczny)
+14. [Z czego utrzymuje się Jazdów?](#z-czego-utrzymuje-sie-jazdow)
+15. [Jak można wesprzeć Otwarty Jazdów?](#jak-mozna-wesprzec-otwarty-jazdow)
+16. [Jakie są aktualne wyzwania na Jazdowie?](#jakie-sa-aktualne-wyzwania-na-jazdowie)
+17. [Co można na Jazdowie? Czego lepiej unikać?](#co-mozna-na-jazdowie-czego-lepiej-unikac)
+18. [Jakie są osiągnięcia Otwartego Jazdowa?](#jakie-sa-osiagniecia-otwartego-jazdowa)
+19. [Podoba mi się! Chcę dołączyć do Otwartego Jazdowa. Jak to zrobić?](#podoba-mi-sie-chce-dolaczyc-do-otwartego-jazdowa-jak-to-zrobic)
+20. [A jeśli chcę coś zmienić? Jazdów powinien działać inaczej!](#a-jesli-chce-cos-zmienic-jazdow-powinien-dzialac-inaczej)
+21. [To kiedy są te spotkania Otwartego Jazdowa?](#to-kiedy-sa-te-spotkania-otwartego-jazdowa)
+
 ## Czym jest Osiedle Jazdów i Otwarty Jazdów?
 Osiedle Jazdów to mały raj w centrum Warszawy: 27 zatopionych w zieleni drewnianych domków. Otwarty Jazdów to społeczność ich gospodarzy, gości i przyjaciół, czyli my i każdy kto chce się do nas przyłączyć. Rozpoczęliśmy działalność jako grupa nieformalna broniąca Osiedla przed likwidacją, później działaliśmy jako Partnerstwo Lokalne, a teraz jesteśmy formalnym Związkiem Stowarzyszeń. Dziś pracujemy nad tym, aby to miejsce dawało chwilę wytchnienia i zapewniało spotkania z niezależną kulturą i fajnymi ludźmi w niecodziennych okolicznościach przyrody.
 Otwarty Jazdów to także największy, oddolny dom kultury i edukacji w Polsce. W 2017 zorganizowaliśmy ponad 1400 wydarzeń w których uczestniczyło przeszło 36 000 osób. 
@@ -93,7 +116,7 @@ Napisz do nas maila na adres jazdow@jazdow.pl.
 Sprawą kluczową jest doprowadzenie do kompleksowego remontu domków. Równolegle podejmujemy szereg działań mających na celu uchwalenie Miejscowego Planu Zagospodarowania Przestrzennego uwzględniającego wizję przyszłości Osiedla Jazdów.Staramy się wdrożyć model współzarządzania terenem Osiedla. Ponadto cały czas zachęcamy mieszkańców Warszawy do działania na Jazdowie oraz włączamy w te działania nowe grupy twórców. Bardzo istotne jest dla nas również wprowadzenie w domkach kolejnych udogodnień i rozwiązań proekologicznych.
 
 ## Co można na Jazdowie? Czego lepiej unikać?
-(ustaliliśmy, że tutaj będzie link do regulaminu)
+Zasady opisuje [Regulamin Osiedla Jazdów](/regulamin/).
 
 ## Jakie są osiągnięcia Otwartego Jazdowa?
 Nowe ambasady, budynki rządowe i luksusowe apartamenty... tu nie powstaną. Naszym największym osiągnięciem jest utrzymanie terenu jako ogólnodostępnego. Gdyby nie inicjatywa Otwarty Jazdów – Osiedla już by nie było. Dużym sukcesem jest również wpisanie układu urbanistycznego i dwóch domków indywidualnie do gminnej ewidencji zabytków.

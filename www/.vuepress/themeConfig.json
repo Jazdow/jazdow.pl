@@ -78,6 +78,10 @@
         "title": "Statut"
       },
       {
+        "to": "/regulamin",
+        "title": "Regulamin"
+      },
+      {
         "to": "/sprawozdania",
         "title": "Sprawozdania"
       },
