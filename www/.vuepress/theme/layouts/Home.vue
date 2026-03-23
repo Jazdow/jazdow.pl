@@ -103,6 +103,8 @@ main
 	display block
 	width 66%
 	margin 0 auto
+	+below(600px)
+		width 100%
 	img
 		width 100%
 		height auto
