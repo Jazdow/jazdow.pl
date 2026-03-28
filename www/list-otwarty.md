@@ -18,7 +18,7 @@ Liczymy na Państwa pomoc, zaangażowanie, ale przede wszystkim - odpowiedzialno
 
 - 7 - liczba podwyżek czynszu od maja 2015 roku
 - 236% - podwyżka czynszów to 236% dotychczasowej kwoty (czyli podwyżka o 136%) - oznacza dla wielu organizacji realne ryzyko zakończenia działalności w tym miejscu
-- 570% - obecne podwyżki do poziomu 27,06 zł/m² stanowią 570% stawki z października 2015 roku
+- 733% - obecne podwyżki do poziomu 27,06 zł/m² stanowią 733% stawki z października 2015 roku
 - 11,45 zł/m² - aktualna stawka czynszu w wysokości rzeczywistych kosztów utrzymania domków fińskich
 - 27,06 zł/m² - proponowane stawki czynszu najmu domków fińskich
 
@@ -262,7 +262,7 @@ Dzięki naszym naciskom i staraniom udało się zabezpieczyć istnienie Osiedla 
 👺 **Diabeł jednak tkwi w szczegółach:**
 1. Remonty nie są prowadzone w sposób włączający społeczność w proces projektowy.
 2. Obecnie trwające remonty nie są zgodne z zaleceniami Przewodnika Architektonicznego Osiedla Jazdów w zakresie rozwiązań technicznych oraz materiałów używanych podczas remontów.
-3. Stoją też w jawnej sprzeczności z wytycznymi konserwatorskimi do Miejscowego Planu Zagospodarowania Przestrzennego w zakresie podejścia do dziedzictwa architektury rosnącej.
+3. Stoją też w jawnej sprzeczności z [wytycznymi konserwatorskimi](https://jazdow.pl/wiedza/2018_wytyczne-konserwatorskie.pdf) do Miejscowego Planu Zagospodarowania Przestrzennego w zakresie podejścia do dziedzictwa architektury rosnącej.
 4. Nie wystarczy wyremontować infrastruktury terenu oraz domków fińskich. To organizacje społeczne, realizujące tu swoje misje publiczne, kształtują przestrzeń publiczną i jej unikalną tożsamość.
 
 <hr />
