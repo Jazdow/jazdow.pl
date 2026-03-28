@@ -10,7 +10,7 @@ Jesteśmy gotowi do rozmowy.
 
 Liczymy na Państwa pomoc, zaangażowanie, ale przede wszystkim - odpowiedzialność i wrażliwość ponad podziałami.
 
-## [Pełna treść Listu Otwartego nr 2](/dyplomacja/2026_03_27_Wolny-Jazdow_List-Otwarty-2.pdf)
+## [Pełna treść Listu Otwartego nr 2](/dyplomacja/2026_03_28_Wolny-Jazdow_List-Otwarty-2.pdf)
 
 ## [Pełna treść Listu Otwartego nr 1](/dyplomacja/2026_03_02_Wolny-Jazdow_List-Otwarty.pdf)
 
