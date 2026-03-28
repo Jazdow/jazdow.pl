@@ -32,8 +32,10 @@ module.exports = {
 	markdown: {
 		extendMarkdown: md => {
 			md.set({
-				breaks: true
+				breaks: true,
+				linkify: true
 			})
+			md.use(require('markdown-it-footnote'))
 		}
 	},
 
