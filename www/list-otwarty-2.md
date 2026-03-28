@@ -443,7 +443,7 @@ Do czerwca 2012 roku na Jazdowie istniało 31 domków. W następstwie wyprowadze
 W maju 2013 roku mieszkańcy wraz z organizacjami pozarządowymi, grupami nieformalnymi, artystami, zainicjowali akcję Otwarty Jazdów. W kolejnych miesiącach odbył się szereg wydarzeń społecznych, kulturalnych, edukacyjnych i artystycznych, które pokazywały olbrzymi potencjał Osiedla Jazdów. Z czasem kilkumiesięczna akcja ewoluowała w nieformalną grupę sympatyków i przyjaciół, która zaczęła bronić domków fińskich.
 
 Więcej informacji na ten temat w artykule:
-➡️ [Osiedle Jazdów – od spotkań sąsiedzkich do Partnerstwa Lokalnego. Perspektywa mieszkańca](https://jazdow.pl/2017-mieszkania2030-silne-wspierajace-sie-spolecznosci/)
+➡️ [Osiedle Jazdów – od spotkań sąsiedzkich do Partnerstwa Lokalnego. Perspektywa mieszkańca](/2017-mieszkania2030-silne-wspierajace-sie-spolecznosci)
 
 </oj-faq-item>
 
