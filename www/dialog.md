@@ -1,6 +1,6 @@
 ---
 permalink: dialog
-title: List otwarty
+title: Listy otwarte
 ---
 
 ![flaga czerwona](/images/flag-red.png "flaga czerwona")
@@ -14,12 +14,14 @@ Liczymy na Państwa pomoc, zaangażowanie, ale przede wszystkim - odpowiedzialno
 
 ## [Pełna treść Listu Otwartego nr 1](/dyplomacja/2026_03_02_Wolny-Jazdow_List-Otwarty.pdf)
 
+<hr />
+
 <oj-faq-item question="Czas na fakty - najważniejsze liczby:">
 
 - 7 - liczba podwyżek czynszu od maja 2015 roku
 - 236% - podwyżka czynszów to 236% dotychczasowej kwoty (czyli podwyżka o 136%) - oznacza dla wielu organizacji realne ryzyko zakończenia działalności w tym miejscu
 - 733% - obecne podwyżki do poziomu 27,06 zł/m² stanowią 733% stawki z października 2015 roku
-- 11,45 zł/m² - aktualna stawka czynszu w wysokości rzeczywistych kosztów utrzymania domków fińskich
+- 11,54 zł/m² - aktualna stawka czynszu w wysokości rzeczywistych kosztów utrzymania domków fińskich
 - 27,06 zł/m² - proponowane stawki czynszu najmu domków fińskich
 
 <hr />
@@ -33,6 +35,8 @@ Liczymy na Państwa pomoc, zaangażowanie, ale przede wszystkim - odpowiedzialno
 - znacznie mniej niż zaproponowane nam 27,06 zł/m² - średnie stawki dla organizacji pozarządowych w Warszawie (według badań na zlecenie Biura Polityki Lokalowej)
 
 </oj-faq-item>
+
+<hr />
 
 ## Najczęściej zadawane pytania
 
