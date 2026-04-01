@@ -269,8 +269,6 @@ $oj-map-dark = $oj-green-free
 #oj-map
 	display block
 	position relative
-	clearfix()
-	margin-top 12rem
 	overflow-x hidden
 	width 100%
 .map-viewport
@@ -317,7 +315,7 @@ $oj-map-dark = $oj-green-free
 		visibility hidden
 #house-label-content
 	color $oj-green-free
-	font-family $P
+	font-family $Lemur
 	font-weight 700
 	font-size 1.2rem
 	line-height 1.4em

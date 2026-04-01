@@ -54,11 +54,9 @@ export default {
 
 .map-section
 	display: block
-	clearfix()
 	width: 100%
 	padding: 0 1rem
-	margin-top: -6rem
+	margin-top: 2rem
 	+below(800px)
 		padding: 0
-		margin-top: -3rem
 </style>
