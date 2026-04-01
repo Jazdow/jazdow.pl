@@ -32,7 +32,11 @@ Są nas tysiące, a liczba ta - rośnie każdego dnia. To motywuje nas do dział
 
 ### Zostań osobą wolontariacką
 
+Zapraszamy do zgłaszania się.
+
 ### Wolontariat pracowniczy
+
+Chcesz zorganizować akcję wolontariatu pracowniczego? Zapraszamy do kontaktu.
 
 ## Wesprzyj finansowo Wolny Jazdów
 
@@ -45,7 +49,7 @@ KRS: 0000737179
 
 ➡️ [Więcej informacji o statusie OPP](https://jazdow.pl/opp/).
 
-### Patronite.pl - stały patronat
+### Patronite.pl/jazdow - stały patronat
 
 Dołącz do społeczności Patronite i korzystaj z przestrzeni domku fińskiego na stałe! Dołączając jesteś także na bieżąco z wszystkimi wydarzeniami Wolnego Jazdowa.
 
