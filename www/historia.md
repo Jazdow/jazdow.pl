@@ -30,9 +30,9 @@ history:
     date: luty-październik 2014
     title: konsultacje społeczne na temat przyszłości terenu osiedla Jazdów
     text: |
-        11 lipca 2013 roku Rada m.st. Warszawy podjęła uchwałę, w myśl której konsultacje społeczne mogą odbywać się na wniosek mieszkańców Warszawy podpisany przez co najmniej 1 000 osób. Już we wrześniu tego samego roku Stowarzyszenie Mieszkańców Domków Fińskich Jazdów wykorzystało tę możliwość, składając wniosek o  przeprowadzenie konsultacji w sprawie terenu Osiedla Jazdów, podpisany przez ponad 2 000 osób.
+        11 lipca 2013 roku Rada m. st. Warszawy podjęła uchwałę, w myśl której konsultacje społeczne mogą odbywać się na wniosek mieszkańców Warszawy podpisany przez co najmniej 1 000 osób. Już we wrześniu tego samego roku Stowarzyszenie Mieszkańców Domków Fińskich Jazdów wykorzystało tę możliwość, składając wniosek o  przeprowadzenie konsultacji w sprawie terenu Osiedla Jazdów, podpisany przez ponad 2 000 osób.
 
-        Władze m.st. Warszawy przychyliły się do złożonego wniosku i przystąpiły do realizacji konsultacji społecznych, których celem było wypracowanie społecznej koncepcji zagospodarowania terenu Osiedla Jazdów. Warsztaty konsultacyjne prowadziło Stowarzyszenie Kulturotwórcze Miastodwa.
+        Władze m. st. Warszawy przychyliły się do złożonego wniosku i przystąpiły do realizacji konsultacji społecznych, których celem było wypracowanie społecznej koncepcji zagospodarowania terenu Osiedla Jazdów. Warsztaty konsultacyjne prowadziło Stowarzyszenie Kulturotwórcze Miastodwa.
 
         [Link do raportu](/wiedza/2014_raport_konsultacje_osiedle_jazdow.pdf) (obowiązujące są wyniki „grupy wspólnej”)
 - 

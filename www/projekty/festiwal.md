@@ -303,7 +303,7 @@ Opis: Rodzinne życie Rudolfa i Hedwig, skrywające niepokojące tajemnice
 
 
 
-🌿 Festiwal odbywa się na Osiedlu Jazdów, największym oddolnym centrum kultury i edukacji w Polsce, zielonej enklawie w sercu Warszawy. Mieszkańcy osiedla i miejscy aktywiści obronili je przed rozbiórką, a od 2015 roku zrzeszeni są w Partnerstwie Otwarty Jazdów, które nadaje nowe funkcje publiczne temu miejscu. Partnerstwo prowadzi dialog na rzecz rozwoju osiedla z urzędnikami m.st. Warszawy. W 2021 roku Partnerstwo otrzymało wyróżnienie Komisji Europejskiej za wyjątkowe zaangażowanie w ochronę i rozwój wspólnego europejskiego dziedzictwa w konkursie European Heritage Awards.
+🌿 Festiwal odbywa się na Osiedlu Jazdów, największym oddolnym centrum kultury i edukacji w Polsce, zielonej enklawie w sercu Warszawy. Mieszkańcy osiedla i miejscy aktywiści obronili je przed rozbiórką, a od 2015 roku zrzeszeni są w Partnerstwie Otwarty Jazdów, które nadaje nowe funkcje publiczne temu miejscu. Partnerstwo prowadzi dialog na rzecz rozwoju osiedla z urzędnikami m. st. Warszawy. W 2021 roku Partnerstwo otrzymało wyróżnienie Komisji Europejskiej za wyjątkowe zaangażowanie w ochronę i rozwój wspólnego europejskiego dziedzictwa w konkursie European Heritage Awards.
 
 
 
