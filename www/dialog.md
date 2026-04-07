@@ -32,7 +32,6 @@ Liczymy na Państwa pomoc, zaangażowanie, ale przede wszystkim - odpowiedzialno
 <hr />
 
 - 109 - tyle jest obecnie pustostanów (lokali użytkowych) w Dzielnicy Śródmieście (dane z 17 marca 2026 roku)
-- znacznie mniej niż zaproponowane nam 27,06 zł/m² - średnie stawki dla organizacji pozarządowych w Warszawie (według badań na zlecenie Biura Polityki Lokalowej)
 
 </oj-faq-item>
 
@@ -289,7 +288,7 @@ Wbrew obiegowej opinii - nie napisaliśmy, że jest to podwyżka **o 236%**.
 
 Czynsz w listopadzie 2024 roku to 243% stawki z października 2015 roku.
 
-**Obecna proponowana podwyżka do poziomu 27,06 zł/m² stanowi 570% stawki z października 2015 roku.**
+**Obecna proponowana podwyżka do poziomu 27,06 zł/m² stanowi 733% stawki z maja 2015 roku.**
 
 </oj-faq-item>
 
