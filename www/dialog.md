@@ -61,7 +61,7 @@ Bądź na bieżąco:
 ➡️ [Facebook](https://facebook.com/jazdow/)
 ➡️ [Instagram](https://instagram.com/wolny.jazdow/)
 ➡️ [LinkedIn](https://www.linkedin.com/company/jazdow)
-➡️ [Youtube](https://youtube.com/osiedlejazdow/)
+➡️ [Youtube](https://youtube.com/@wolnyjazdow/)
 
 </oj-faq-item>
 
