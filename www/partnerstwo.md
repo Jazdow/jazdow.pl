@@ -6,7 +6,7 @@ tldr: >
   Biura Obsługi Ruchu Inicjatyw Społecznych (Warszawski Program Wspierania
   Partnerstw). Związek Stowarzyszeń Partnerstwo Otwarty Jazdów powstał w drugiej
   połowie 2018 roku, jako formalne ciało Partnerstwa dla Osiedla Jazdów, aby
-  skuteczniej reprezentować społeczność Osiedla przed urzędem m.st. Warszawy
+  skuteczniej reprezentować społeczność Osiedla przed urzędem m. st. Warszawy
   oraz pozyskiwać fundusze na wspólną działalność.
 generic: true
 ---

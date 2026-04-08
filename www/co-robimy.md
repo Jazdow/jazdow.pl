@@ -8,9 +8,9 @@ generic: true
 ### 1. [Oprowadzania po Osiedlu Jazdów](#oprowadzania-po-osiedlu-jazdow)
 ### 2. [Czytelnia Klimatyczna](#czytelnia-klimatyczna)
 ### 3. [Kulturalne Centrum Samopomocy](https://www.kcs.info.pl/)
-### 4. [Społeczne Archiwum Osiedla Jazdów](/archiwum)
-### 5. [Model współzarządzania](/wspolzarzadzanie)
-### 6. [Partnerstwo](/partnerstwo)
+### 4. [Społeczne Archiwum Osiedla Jazdów](https://jazdow.pl/archiwum)
+### 5. [Model współzarządzania](https://jazdow.pl/wspolzarzadzanie)
+### 6. [Partnerstwo Lokalne](https://jazdow.pl/partnerstwo)
 
 ## Oprowadzania po Osiedlu Jazdów
 
