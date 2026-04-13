@@ -71,7 +71,7 @@ Bądź na bieżąco:
 
 Od lat budujemy największy w Polsce oddolny dom kultury i edukacji w Polsce. Nakładem tysięcy godzin pracy wolontariackiej, przy szczątkowym wsparciu sektora publicznego. Jesteśmy zorientowani na budowaniu społeczeństwa obywatelskiego, wrażliwego na osoby słabsze i zagrożone wykluczeniem. Jazdów to przestrzeń współpracy międzysektorowej i międzypokoleniowej oraz miejsce [badań](https://jazdow.pl/archiwum/) historii tego miejsca - symbolu Odbudowy Stolicy. To także bezpieczna przestrzeń dla [grup samopomocowych](https://www.kcs.info.pl/) - od lat otwarta na setki oddolnych inicjatyw.
 
-➡️ Zobacz nasze wartości: [wolnyjazdow.pl](https://wolnyjazdow.pl)
+➡️ [Zobacz nasze wartości](https://jazdow.pl/deklaracja/)
 
 ➡️ Zapisaliśmy je w [Statucie naszego Związku stowarzyszeń](https://jazdow.pl/statut/)
 

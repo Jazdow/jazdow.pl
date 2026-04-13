@@ -5,7 +5,7 @@ tldr: Witaj, bądź sobą, rozgość się i pamiętaj o panujących tutaj zasada
 generic: true
 ---
 
-**[APLIKUJ O OBYWATELSTWO](https://wolnyjazdow.pl/form.html)**
+**[APLIKUJ O OBYWATELSTWO](https://urzad.jazdow.pl/obywatelstwo)**
 
 1. Tu razem dbamy o naturę, sprzątamy wspólną przestrzeń i kompostujemy,
 2. Tu dzielimy się spokojem i unikamy hałasu, nie używamy głośników w ogrodach, a w godzinach 22:00–8:00 wyciszamy się wraz z naturą i sąsiedztwem,
@@ -25,4 +25,4 @@ Błogiego czasu w Wolnym Jazdowie!
 #tuwolno
 #zawszebędziejazdów
 
-## [APLIKUJ O OBYWATELSTWO](https://wolnyjazdow.pl/form.html)
+## [APLIKUJ O OBYWATELSTWO](https://urzad.jazdow.pl/obywatelstwo)

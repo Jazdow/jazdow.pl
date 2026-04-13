@@ -61,4 +61,4 @@ Identyfikacja wizualna projektu: [Bartosz Zieliński / @bartol.yes](https://www.
 
 Projekt współfinansowany przez m. st. Warszawa.
 
-[\#wolnyjazdow](https://www.facebook.com/hashtag/wolnyjazdow?__eep__=6&__cft__[0]=AZXwaGbjsgdkPbNUGxcKWEihX4twSXI67hSjO9a_Xx8SWfmg1Cym5o3jlmcelQT2l8yZIMWGThobQw76v6WUWKk0Y_13Tdh7gdbp1vE5ZgLW-0RXHXfP2Vel6rLJ2hsm-BD1Mki33jb8iEqGjhdPeCYl&__tn__=q) [\#tuwolno](https://www.facebook.com/hashtag/tuwolno?__eep__=6&__cft__[0]=AZXwaGbjsgdkPbNUGxcKWEihX4twSXI67hSjO9a_Xx8SWfmg1Cym5o3jlmcelQT2l8yZIMWGThobQw76v6WUWKk0Y_13Tdh7gdbp1vE5ZgLW-0RXHXfP2Vel6rLJ2hsm-BD1Mki33jb8iEqGjhdPeCYl&__tn__=q)
+[\#wolnyjazdow](https://www.facebook.com/hashtag/wolnyjazdow) [\#tuwolno](https://www.facebook.com/hashtag/tuwolno)
