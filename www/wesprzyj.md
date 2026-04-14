@@ -75,5 +75,4 @@ NIP: 7010827495
 
 ### Jednorazowe wpłaty
 
-➡️ [zrzutka.pl/66a6y3](https://zrzutka.pl/66a6y3)
 ➡️ [PayPal.com](http://paypal.com/donate/?hosted_button_id=VX7Z64CXKU3V4)
