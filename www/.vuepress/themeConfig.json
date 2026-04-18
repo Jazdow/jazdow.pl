@@ -78,6 +78,10 @@
         "title": "Statut"
       },
       {
+        "to": "/wspolpraca",
+        "title": "Współpraca"
+      },
+      {
         "to": "/regulamin",
         "title": "Regulamin"
       },
