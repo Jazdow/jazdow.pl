@@ -78,12 +78,20 @@
         "title": "Statut"
       },
       {
+        "to": "/wspolpraca",
+        "title": "Współpraca"
+      },
+      {
         "to": "/regulamin",
         "title": "Regulamin"
       },
       {
         "to": "/sprawozdania",
         "title": "Sprawozdania"
+      },
+      {
+        "to": "/regulamin-darowizn",
+        "title": "Regulamin Darowizn"
       },
       {
         "to": "/polityka-prywatnosci",
