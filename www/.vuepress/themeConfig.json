@@ -92,6 +92,10 @@
       {
         "to": "/polityka-prywatnosci",
         "title": "Polityka Prywatności"
+      },
+      {
+        "to": "/regulamin-darowizn",
+        "title": "Regulamin Darowizn"
       }
     ],
     "en": [
