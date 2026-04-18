@@ -90,12 +90,12 @@
         "title": "Sprawozdania"
       },
       {
-        "to": "/polityka-prywatnosci",
-        "title": "Polityka Prywatności"
-      },
-      {
         "to": "/regulamin-darowizn",
         "title": "Regulamin Darowizn"
+      },
+      {
+        "to": "/polityka-prywatnosci",
+        "title": "Polityka Prywatności"
       }
     ],
     "en": [

@@ -31,6 +31,8 @@ Darczyńca może przekazać darowiznę poprzez:
 
 **Dostępne formy płatności — karty płatnicze:** Visa, Visa Electron, Mastercard, MasterCard Electronic, Maestro.
 
+![Płatności obsługuje Paynow / mElements S.A.](/dokumenty/paynow.png)
+
 Przekierowanie do systemu płatności następuje po wpisaniu kwoty darowizny i naciśnięciu przycisku płatności w serwisie internetowym Partnerstwa. W celu sfinalizowania płatności należy postępować zgodnie z pojawiającymi się instrukcjami.
 
 Partnerstwo nie odpowiada za przerwy w dostępie do platformy internetowej Operatora ani serwisu internetowego Partnerstwa.
