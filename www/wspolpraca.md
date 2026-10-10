@@ -29,11 +29,15 @@ Uwaga: Rozpatrujemy tylko zapytania mailowe! Działamy społecznie i mimo stara�
 
 **WAŻNE**: Nie udostępniamy przestrzeni na potrzeby wydarzeń o charakterze prywatnym, takich jak urodziny czy prywatne przyjęcia. Domki fińskie przeznaczone są na działania kulturalne, społeczne i edukacyjne, zgodne z misją społeczności i organizacji Wolnego Jazdowa.
 
+<oj-gallery>
+
 ![Wydarzenia](/images/co-robimy/wydarzenia.jpg "Wydarzenia")
 
 ![Wydarzenia](/images/co-robimy/wydarzenia_4.jpg "Wydarzenia")
 
 ![Wydarzenia](/images/co-robimy/wydarzenia_5.png "Wydarzenia")
+
+</oj-gallery>
 
 ## Współpraca w zakresie wolontariatu pracownicego, CSR, ESG
 
@@ -48,9 +52,13 @@ Oferujemy możliwość:
 
 [Zobacz fotorelację z przykładowej akcji](https://www.facebook.com/jazdow/posts/pfbid0WWcY1Bgwt9DsM7iFzuWV13qeMewWJFAiP9t6LSC8hBsRhvb6DJWDYurZkzn6KY7ql)
 
+<oj-gallery>
+
 ![CSR](/images/co-robimy/csr.jpg "CSR")
 
 ![CSR](/images/co-robimy/csr_2.jpg "CSR")
+
+</oj-gallery>
 
 ## Udział w programach edukacyjnych i warsztatowych Wolnego Jazdowa
 
@@ -63,11 +71,15 @@ Przygotowujemy autorskie warsztaty, spacery, spotkania i programy edukacyjne dla
 
 Kontakt: wolny@jazdow.pl
 
+<oj-gallery>
+
 ![Edukacja](/images/co-robimy/edu.jpg "CSR")
 
 ![Edukacja](/images/co-robimy/edu_2.jpg "CSR")
 
 ![Edukacja](/images/co-robimy/edu_3.jpg "CSR")
+
+</oj-gallery>
 
 ### [Sieć Lokalnych Gospodarzy](https://lokalnigospodarze.pl)
 
