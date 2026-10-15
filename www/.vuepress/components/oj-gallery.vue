@@ -45,10 +45,11 @@ export default {
 @import '../theme/styles/component'
 .thumbs
 	display flex
+	flex-wrap wrap
 	gap 0.5rem
 	margin 1em 0
 	>>> p
-		flex 1
+		flex 1 1 unquote('calc((100% - 1rem) / 3)')
 		margin 0
 		min-width 0
 	>>> img

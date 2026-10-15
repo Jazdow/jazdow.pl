@@ -39,6 +39,63 @@ Uwaga: Rozpatrujemy tylko zapytania mailowe! Działamy społecznie i mimo stara�
 
 </oj-gallery>
 
+### Wyposażenie zabytkowego domku fińskiego
+
+- krzesła (drewniane i plastikowe), taborety i leżaki,
+- 2 kanapy i rozkładane fotele,
+- 3 stoły,
+- projektor i ekran,
+- Internet,
+- toaleta,
+- kuchnia (wyposażona w m. in.: lodówkę, ekspres przelewowy, czajnik, kubki, dzbanki, sztućce, garnki, herbatę i kawę),
+- kameralny ogród i taras.
+
+<oj-gallery>
+
+![Domek fiński](/images/co-robimy/domek_1.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_2.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_3.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_4.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_5.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_6.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_7.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_8.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_9.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_10.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_11.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_12.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_13.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_14.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_15.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_16.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_17.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_18.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_19.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_20.jpg "Domek fiński")
+
+![Domek fiński](/images/co-robimy/domek_21.jpg "Domek fiński")
+
+</oj-gallery>
+
 ## Współpraca w zakresie wolontariatu pracownicego, CSR, ESG
 
 Tworzymy partnerstwa z firmami, którym bliskie są wartości związane ze zrównoważonym rozwojem, lokalnością, dobrostanem i odpowiedzialnością społeczną i przyrodniczą.
