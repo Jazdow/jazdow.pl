@@ -6,10 +6,18 @@
 			oj-intro
 			.content
 				.row.a
-					a.banner-plakat(href="https://jazdow.pl/plakaty/aktualny.png" target="_blank" rel="noopener")
-						img(src="/plakaty/aktualny-small.png" width="1890" height="870" alt="Plakat z aktualnymi wydarzeniami na Osiedlu Jazdów – otwórz pełną wersję")
+					a.banner-plakat(href="https://patronite.pl/jazdow" target="_blank" rel="noopener")
+						img(src="/images/baner-dolacz.webp" width="2000" height="740" alt="To miejsce daje nadzieję – dołącz do Wolnego Jazdowa na Patronite")
+				//- dwa pierwsze kafelki z frontmattera idą do szerszego rzędu, reszta pod nimi
+				.row.b.featured
+					oj-card(v-for="(card, i) in $page.frontmatter.cards.slice(0, 2)"
+					:key="i"
+					:title="card.title"
+					:caption="card.caption"
+					:cover="card.cover"
+					:link="card.link")
 				.row.b
-					oj-card(v-for="(card, i) in $page.frontmatter.cards"
+					oj-card(v-for="(card, i) in $page.frontmatter.cards.slice(2)"
 					:key="i"
 					:title="card.title"
 					:caption="card.caption"
@@ -133,6 +141,11 @@ main
 	+above(600px)
 		lost-column 4/12 3 $gutter
 		margin-bottom $gutter
+.featured .oj-card
+	height auto
+	aspect-ratio 1890 / 870
+	+above(600px)
+		lost-column 6/12 2 $gutter
 .oj-card, .oj-faq-card
 	+below(600px)
 		width 100%
