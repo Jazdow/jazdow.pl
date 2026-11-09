@@ -70,13 +70,13 @@ Opiekunki i Opiekunowie Czytelni: Hania, Klaudia, Karola, Magda, Mikołaj, Nemo,
 
 [![Listopad 2026](/plakaty/2026_11.png "Listopad 2026")](https://jazdow.pl/plakaty/2026_11.png)
 
-[![Październik 2026](/plakaty/2026_10.png "Październik 2026")](https://jazdow.pl/plakaty/2026_10.png)
+[![Październik 2026](/plakaty/2026_10-small.png "Październik 2026")](https://jazdow.pl/plakaty/2026_10.png)
 
-[![Wrzesień 2026](/plakaty/2026_09.png "Wrzesień 2026")](https://jazdow.pl/plakaty/2026_09.png)
+[![Wrzesień 2026](/plakaty/2026_09-small.png "Wrzesień 2026")](https://jazdow.pl/plakaty/2026_09.png)
 
-[![Sierpień 2026](/plakaty/2026_08.png "Sierpień 2026")](https://jazdow.pl/plakaty/2026_08.png)
+[![Sierpień 2026](/plakaty/2026_08-small.png "Sierpień 2026")](https://jazdow.pl/plakaty/2026_08.png)
 
-[![Lipiec 2026](/plakaty/2026_07.png "Lipiec 2026")](https://jazdow.pl/plakaty/2026_07.png)
+[![Lipiec 2026](/plakaty/2026_07-small.png "Lipiec 2026")](https://jazdow.pl/plakaty/2026_07.png)
 
 [![Czerwiec 2026](/plakaty/2026_06-small.jpg "Czerwiec 2026")](https://jazdow.pl/plakaty/2026_06.png)
 
