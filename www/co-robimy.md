@@ -68,7 +68,9 @@ Opiekunki i Opiekunowie Czytelni: Hania, Klaudia, Karola, Magda, Mikołaj, Nemo,
 
 ## Plakaty zbiorcze
 
-[![Październik 2026](/plakaty/2026_10.png "Wrzesień 2026")](https://jazdow.pl/plakaty/2026_10.png)
+[![Listopad 2026](/plakaty/2026_11.png "Listopad 2026")](https://jazdow.pl/plakaty/2026_11.png)
+
+[![Październik 2026](/plakaty/2026_10.png "Październik 2026")](https://jazdow.pl/plakaty/2026_10.png)
 
 [![Wrzesień 2026](/plakaty/2026_09.png "Wrzesień 2026")](https://jazdow.pl/plakaty/2026_09.png)
 
